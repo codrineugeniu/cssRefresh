@@ -1,0 +1,16 @@
+body {
+background:#fff;
+}
+
+div {
+
+  border-radius:3px;
+  width:500px;
+  background:#888;
+  height:200px;
+  margin:0 auto;
+  text-align:center;
+  font-size:14px;
+  margin-top:20px;
+}
+
